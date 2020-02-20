@@ -1,3 +1,3 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+Sever code for skin condition check web app. This is only used for study.
 
-Sever code for Rash Decision Mobile APP
+Any user could upload images to the server and my skin condition check machine learning model would give a feedback and tell what the problem of the skin.
