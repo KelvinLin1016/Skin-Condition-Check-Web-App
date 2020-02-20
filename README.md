@@ -1,2 +1,3 @@
-# Skin-Condition-Check-Web-App
-This is a simple rash skin check app by using state-of-art machine learning technology.
+# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+
+Sever code for Rash Decision Mobile APP
