@@ -11,33 +11,12 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 
-#export_file_url = 'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
-#export_file_name = 'export.pkl'
 
-#classes = ['black', 'grizzly', 'teddys']
-
-#export_file_url = 'https://drive.google.com/uc?export=download&id=1N9lWOHSMaxN322XRyAALovNxCLzM6NCT' #'https://www.dropbox.com/s/6bgq8t6yextloqp/export.pkl?raw=1'
-#export_file_name = 'rash1.pkl'
-
-#export_file_url1 = 'https://drive.google.com/uc?export=download&id=1CiGOOrzrEGF0UCljBtkZl8H5aK1VNNZn'
-#export_file_name1 = 'rash2.pkl'
 
 export_file_url1 = 'https://drive.google.com/uc?export=download&id=1HlEDUK5n5yHxnnFS5G19DEqnTuOyFBYT'
 export_file_name1 = 'rash1_new100.pkl'
 
-#export_file_url1 = 'https://drive.google.com/uc?export=download&id=1qAXSZplAldJIrDnE_NryZJmpx3kOYZIo'
-#export_file_name1 = 'rash152res200.pkl'
 
-#export_file_url = 'https://drive.google.com/uc?export=download&id=1YaGpjyiNNEGzzG5xzwzsVnYJSwIrqyWz'
-#export_file_name = 'rash_152_200.pkl'
-
-#Melanoma and Normal Rash seperate decision
-
-#export_file_url1= 'https://drive.google.com/uc?export=download&id=1zUdnIy8bm8zOReVqt0VMi234o6ryREIe'
-#export_file_name1= 'normalrash.pkl'
-
-#export_file_url2 = 'https://drive.google.com/uc?export=download&id=1j2HpbwTb078ykjQPd2gIybcx0jb4G05R'
-#export_file_name2= 'melanoma.pkl'
 
 #classes = ['Flea Bites', 'Tick Bites']
 #classes = ['Allergic Eczema', 'Cellulitis', 'Chickenpox', 'Contact Dermatitis', 'Diaper Rash', 'Drug Allergy', 'Eczema' ,'Fifth Disease', 'Flea Bites','Impetigo','Kawasaki Disease','Measles','Psoriasis','Ringworm', 'Rosacea','Scabies','Scarle Fever','Sebornheic Eczema','Shingles','Systemic Lupus Erythematosus','Tick Bites']
